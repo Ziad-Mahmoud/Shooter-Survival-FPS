@@ -215,7 +215,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1009872226
 GameObject:
@@ -301,76 +301,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &4091705704074657629
+--- !u!1001 &974083335859190741
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6091636505817169876, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: m_RootBone
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6091636505817169876, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: m_Bones.Array.data[0]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6091636505817169876, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: m_Bones.Array.data[1]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6091636505817169876, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: m_Bones.Array.data[2]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6091636505817169876, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: m_Bones.Array.data[3]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6091636505817169876, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: m_Bones.Array.data[4]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6122593099968369549, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: CurrentAnim
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6122593099968369549, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: ListRigids.Array.data[0]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6122593099968369549, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: ListRigids.Array.data[1]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6122593099968369549, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: ListRigids.Array.data[2]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6122593099968369549, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: ListRigids.Array.data[3]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6122593099968369549, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: ListRigids.Array.data[4]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6122593099968369549, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: ListRigids.Array.data[5]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6122593099968369549, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
-      propertyPath: ListRigids.Array.data[6]
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 6153139908398951060, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
       propertyPath: m_Name
-      value: Zombi
+      value: SkibidiToilet2
       objectReference: {fileID: 0}
     - target: {fileID: 6156964409557774375, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6156964409557774375, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
       propertyPath: m_LocalPosition.x
