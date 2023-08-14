@@ -358,3 +358,60 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 12b609567c9997740a723559fd1d0c9f, type: 3}
+--- !u!1001 &8643054655637598839
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 61.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.35865593
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 33.608303
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062522133405220224, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 6064575441519338807, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
+      propertyPath: m_Name
+      value: CharacterRobloxFPS
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d11488844c434fc4a97a3cb8b981a98e, type: 3}
